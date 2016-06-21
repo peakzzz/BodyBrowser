@@ -1,0 +1,10 @@
+{
+  "baseUrl":		"models/skinned/UCS/",
+  "character":	"umich_ucs.js",
+  "skins": 		["Caucasion_Male.jpg", "Highlighted_Muscles.jpg"],
+  "morphs": 		["Slider"],
+  "x":	100,
+  "y":	-500,
+  "z":	-300,
+  "s":	30
+}
